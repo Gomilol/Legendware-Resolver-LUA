@@ -1,2 +1,6 @@
-# Legendware-Resolver-LUA
-*Resolver for legendware made by me.
+# Legendware Resolver LUA
+
+Resolver for legendware made by me.
+
+
+
