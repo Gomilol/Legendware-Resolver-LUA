@@ -82,7 +82,7 @@ client.add_callback("on_shot", resolve)
 client.add_callback("on_paint", set_all_down)
 
 if username == "Gomi" then
-    console.execute("sv_lan 1")
+    console.execute("sv_lan 1") -- i did this bc im banned on my main and didnt feel like start in -insecure
 else
 end
 
